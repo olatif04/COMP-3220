@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShapeCanvas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShapeCanvas_jar</output-path>
+    <root id="archive" name="ShapeCanvas.jar">
+      <element id="module-output" name="ShapeCanvas" />
+    </root>
+  </artifact>
+</component>
